@@ -20,6 +20,6 @@ so you will enjoy absolute randomness
 
 you can extent the degree of randomness from 1 to 100 by putting the number in the input when asked 
 
-the animation is reduced as soon as you increase the extent of randomness above 30 as it will save your time :)
+the animation is reduced as soon as you increase the extent of randomness above 10 as it will save your time :)
 
 if you have any ques or need help then just contact me on email - harshnative@gmail.com or just put it in the comments section
