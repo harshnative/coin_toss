@@ -3,7 +3,7 @@
 //randNum=1;
 //randMin=111111;
 //
-//randNum = rand () % (randMax - randMin) + randMin;
+//randNum = (rand () % (randMax - randMin)) + randMin;
 
 
 
@@ -35,7 +35,7 @@ int main()
     int randNum[100],bestof;
     int a = 0 , b = 0;
     
-    cout<<"ENTER THE DEGREE OF RANDOMNESS YOU NEED : ";
+    cout<<"ENTER THE DEGREE OF RANDOMNESS YOU NEED [0 - 100] : ";
     cin>>bestof;
     
     system("cls");
